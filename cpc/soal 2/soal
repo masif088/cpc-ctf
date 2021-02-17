@@ -1,0 +1,55 @@
+Ersandy adalah tukang joki coc kelas atas, dia selalu membawa kami kaze untuk disetiap jokiannya karena banyak yang dijoki kami kazenya gk selalu dilevel yang sama dan wall musuh memiliki kekuatan yang beda-beda karena sangking pronya sandi jokian makin numpuk dan dia makin bingung untuk menghitung banyaknya kami kaze yang harus dibawa maka dari itu kamu disuruh membantu untuk menghitungkannya, saat sandi minta bantuan dia berpesan bahwa
+
+1 kami kaze tidak bisa membuat damage pada 2 lapisan tembok sekaligus
+
+saat kumpulan kami kaze meneros tembok mereka akan mati disetiap mereka melewati 3 lapisan
+
+kekuatan kami kazenya
+
+lv1 -> 1
+
+lv2 -> 2
+
+lv3 -> 3
+
+inputan pertama banyaknya case
+
+inputan kedua lv kamikaze
+
+inputan ketiga tebal tembok
+
+inputan keempat kekuatan tembok sebanyak tebal tembok
+
+inputan kedua hingga keempat diulangi sebanyak case
+
+banyaknya kamikaze sebanyak case
+
+4
+2
+9
+946859455594
+596688584565
+956885685596
+455886898559
+745558586689
+989559555886
+859688868896
+596656865858
+899484569655
+5
+3
+595884546974
+486898597876
+855488688799
+5
+1
+855688965656
+3
+1
+948955598596
+
+
+case #1: 26
+case #2: 3
+case #3: 1
+case #4: 2

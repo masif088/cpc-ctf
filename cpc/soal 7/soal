@@ -1,0 +1,18 @@
+Sandi geser adalah kita menggeser-geser string yang ada. Dan amatilah hint dengan baik
+
+
+hint :
+0 1 2 0 2 3 1 3 4 2 4 5
+
+input :
+4
+pelgwovoixruqfbqypuh
+wbfnxoppnbwpsnxdxhkv
+orjkdfntdhccgzf  ywg
+esxlgqatpjymlwzcgtsb
+
+output :
+case #1: pfngyrwrmzvztkhuewzo
+case #2: wchnzrqsrdauvsdhdopc
+case #3: oslkfiowhjghjel  fbn
+case #4: etzlitbwtlcrobfgmaxi

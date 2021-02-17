@@ -1,0 +1,35 @@
+soal :
+Pak Yyy adalah dosen yang suka dengan keamanan sistem, beliau selalu memberi sebuah tantangan yang
+asyik disetiap quiz maupun ujiannya, pada suatu hari beliau memberi banyak masalah sebanyak N masalah
+setiap masalah terdiri dari dua baris yang tersusun huruf a-z dan diminta mengartikan arti 2 baris itu.
+seorang mahasiswa yang hobinya menjadi crypto analisis mengatakan ini hanya crypto classic gan, cari diinternet juga ada
+dia mengatakan hanya programmer sejati yang mau buat program segabut ini.
+
+jadi apakah kamu segabut yang dijelaskan crypto analis :v
+
+format input :
+banyak case
+input random string sebanyak case
+
+constraint :
+0 < N <= 100
+
+hint :
+algoritma cuka
+
+input :
+4
+qjjkzuypxcrgvqdxugya
+halfiothvmemosnvidkm
+pnswbshbzwcdppetkdfb
+qbligzwsjffaztopicrc
+eystvwomoycqnezberji
+grylzauyoroxrsfxyfmg
+moteydebwrnrzbkrstgb
+xpqsdxgvgspngljqhhtb
+
+output :
+case #1: xjuphirwsovsjiqscjim
+case #2: fodehrdtibhdoisisfwd
+case #3: kpqeuwikcpqneweycwvo
+case #4: jdjwbakwcjcefmthzazc

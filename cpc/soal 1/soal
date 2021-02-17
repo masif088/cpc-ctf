@@ -1,0 +1,19 @@
+Si moci adalah siswa SD yang tidak suka matematika,sangking bencinya si moci ke matematika ia selalu membuat tool untuk mensolve masalahnya itu dia sekarang lagi menempuh materi pohon faktor namun dia lupa tadi malam untuk membuatnya karena ia lagi mbucin pakai pacar temannya dan temannya gk mau nolong dia maka dari itu bantu dia untuk membuat program untuk memproses sebanyak N kali soal,lalu nginputkan M yaitu bilangan yang akan dicari nilainya
+
+inputan pertama banyaknya case
+
+inputan kedua angka yang akan dicari pohon faktornya sebanyak case
+
+hasil pohon faktor sebanyak case
+
+4
+8
+20
+16
+105
+
+
+case #1: 2^3
+case #2: 2^2*5
+case #3: 2^4
+case #4: 3*5*7

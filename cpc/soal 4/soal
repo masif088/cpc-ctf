@@ -1,0 +1,24 @@
+soal :
+yavi dan iqbal adalah sahabat sejati, meereka selalu merayakan pertemuan mereka
+di tahun baru ditahun yang spesial, kata mereka spesial adalah jika tidak ada yang sama
+didalamnya (tidak ada pengulangan angka ditahunnya), jika mereka janji pada tahun
+2001 maka dia akan merayakan pada tahun 2013
+
+format input :
+banyaknya case
+tahun perayaan sebanyak case
+
+input :
+5
+9093
+2934
+9723
+298
+2001
+
+output :
+case #1: 9102
+case #2: 2935
+case #3: 9724
+case #4: 301
+case #5: 2013

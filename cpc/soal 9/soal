@@ -1,0 +1,21 @@
+Bos Carol, Bob, menganggapnya sangat cerdas. Dia mengatakan dia membuat aplikasi
+yang membuat pesan tidak dapat dibaca tanpa mengubah huruf apa pun, hanya
+dengan menambahkan beberapa yang baru, sambil menjaga integritas pesan
+(mis. Pesan aslinya masih dapat diambil).
+
+Dia memberikan beberapa akses terbatas ke aplikasinya ke Carol untuk menantangnya,
+dan mengisyaratkan bahwa jika Carol tidak dapat memecahkan tugas sederhana ini, dia mungkin akan dipecat.
+
+Carol berusaha memecahkan kode ini sendiri, tetapi terlalu lelah, jadi dia
+mendatangi Anda untuk meminta bantuan. Namun, ia berhasil meretas aplikasi Bob
+dan menemukan bidang data yang disebut 'penanda'. Dia pikir itu bisa membantu
+untuk memecahkan aplikasi Bob.
+
+Bantu Carol menjaga pekerjaannya!
+Fitur fungsi
+Argumen
+     encoded - string yang disandikan yang kami coba kembalikan ke bentuk aslinya.
+     marker - string pendek yang digunakan dalam proses pengkodean entah bagaimana.
+Nilai yang diharapkan
+
+Fungsi Anda harus memecahkan kode dan mengembalikan string asli.

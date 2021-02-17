@@ -1,0 +1,25 @@
+soal :
+Catur adalah permainan papan yang dimainkan dua orang,papan yang berwarna hitam dan putih.
+dian adalah murid ukm catur dan tugas pertama dia sebagai anak fasilkom dia diminta untuk
+dapat menentukan titik a dan titik b apakah memiliki warna papan yang sama,
+jika sama maka menghasilkan True klo salah akan False.
+
+format input :
+banyak case
+posisi 1 dan posisi 2 dipisahkan spasi sebanyak case
+hint :
+
+input :
+5
+G5 G2
+C8 A3
+G5 D7
+H8 C6
+G7 C7
+
+output :
+case #1: False
+case #2: False
+case #3: False
+case #4: False
+case #5: True
